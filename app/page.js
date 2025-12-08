@@ -16,7 +16,7 @@ const messages = translations[currentLang];
 
 export default function HomePage() {
   return (
-    <div>
+    <div className="overflow-x-hidden w-screen">
       <Hero messages={messages} />
       <Intro messages={messages} />
       <Divider messages={messages} />
