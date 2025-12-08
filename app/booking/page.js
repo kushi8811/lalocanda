@@ -23,7 +23,7 @@ export default function BookTablePage() {
           <input
             type="hidden"
             name="_next"
-            value="https://yourdomain.com/thanks"
+            value="https://lalocanda-9ruv.vercel.app/thanks"
           />
           <input type="hidden" name="_template" value="table" />
 

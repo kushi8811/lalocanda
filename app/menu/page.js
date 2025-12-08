@@ -44,7 +44,7 @@ export default function MenuPage() {
         download
         className="mt-8 mb-6 inline-block px-6 py-3 bg-gray-900 text-white font-semibold rounded-xl shadow-md hover:bg-red-700 transition"
       >
-        Download Menu
+        See Menu
       </a>
     </section>
   );
