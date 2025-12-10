@@ -5,7 +5,7 @@ export const translations = {
     contact: {
       heading: "Contattaci",
       restaurantName: "La Locanda Dei Pitti",
-      address: "Via dei Pitti, Firenze, Italia",
+      address: "Piazza dei pitti 14R , 50125",
       phone: " +39 055 123 456",
       email: " locandapitti.info@gmail.com",
       bookButton: "Prenota un Tavolo",
@@ -22,7 +22,7 @@ export const translations = {
     },
     openingHours: {
       heading: "Orari di Apertura",
-      text: "Lunedì - Domenica: 12:00 – 00:00",
+      text: "Lunedì - Domenica: 11:30 – 22:30",
     },
     quickLinks: {
       heading: "Link Veloci",
@@ -51,7 +51,7 @@ export const translations = {
     contact: {
       heading: "Contact Us",
       restaurantName: "La Locanda Dei Pitti",
-      address: "Via dei Pitti, Florence, Italy",
+      address: "Piazza dei pitti 14R , 50125",
       phone: " +39 055 123 456",
       email: "locandapitti.info@gmail.com",
       bookButton: "Book a Table",
@@ -68,7 +68,7 @@ export const translations = {
     },
     openingHours: {
       heading: "Opening Hours",
-      text: "Monday - Sunday: 12:00 – 00:00",
+      text: "Monday - Sunday: 11:30 – 22:30",
     },
     quickLinks: {
       heading: "Quick Links",
