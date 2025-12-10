@@ -9,7 +9,7 @@ export default function BookTablePage() {
         </h1>
 
         <form
-          action="https://formsubmit.co/gjorgjokushi1998@gmail.com"
+          action="https://formsubmit.co/locandapitti.info@gmail.com"
           method="POST"
           className="space-y-4"
         >
@@ -23,7 +23,7 @@ export default function BookTablePage() {
           <input
             type="hidden"
             name="_next"
-            value="https://lalocanda-9ruv.vercel.app/thanks"
+            value="https://www.lalocandadeipitti.com/thanks"
           />
           <input type="hidden" name="_template" value="table" />
 

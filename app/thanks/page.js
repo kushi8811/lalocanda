@@ -1,3 +1,5 @@
+import Logo from "../_components/Logo";
+
 // app/thanks/page.jsx
 export default function ThanksPage() {
   return (
@@ -5,6 +7,7 @@ export default function ThanksPage() {
       <h1 className="text-3xl font-bold text-center text-gray-800">
         ✅ Grazie! La tua prenotazione è stata inviata.
       </h1>
+      <Logo></Logo>
     </div>
   );
 }
